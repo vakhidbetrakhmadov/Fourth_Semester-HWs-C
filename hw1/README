@@ -1,0 +1,7 @@
+This is a small linux utiliy.
+
+Usage: ./list string filename
+
+Purpose: Counts total number of "string"s in a given ASCII TEXT file and prints their coordinates to the screen.
+
+Note. Utility acts as if the give file has no whitespaces at all. Example: str .. ing is still "string"  

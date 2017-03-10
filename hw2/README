@@ -1,0 +1,8 @@
+This is a small linux utiliy.
+
+Usage: ./exe string dirname
+
+Purpose: Counts total number of "string"s in all ASCII TEXT files in the given directory and all subdirectories and prints their coordinates to the log.txt file.
+
+Note. Utility acts as if the files has no whitespaces at all. Example: str .. ing is still "string"
+Note. This is just a practise for multiprocessing in C.
